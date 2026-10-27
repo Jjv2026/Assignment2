@@ -1,14 +1,14 @@
-Status : INCOMPLETE - at least one check did not pass
+Status : COMPLETE - all checks passed
 Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
 
 CS 1430 Assignment 2: The Cost of College
-GitHub user : unknown
-Repository  : unknown
-Commit      : unknown
-Message     : 
-Author      : 
-Committed   : 
-Checked     : 2026-10-27 01:29:21 Central Daylight Time
+GitHub user : Jjv2026
+Repository  : https://github.com/Jjv2026/Assignment2
+Commit      : d9eca420af7d84fdc466c383296c77ee9a62cd7a
+Message     : Completed
+Author      : Jahjen Vang <vangjah@uwplatt.edu>
+Committed   : 2026-10-27T01:30:19-05:00
+Checked     : 2026-10-27 01:30:33 Central Daylight Time
 Python      : 3.14.8
 
 ================================================================
@@ -37,9 +37,9 @@ CHECK RESULTS
 [PASS] Git is installed
 [PASS] This folder is a Git repository
 [PASS] You have committed your own work
-[FAIL] Your latest changes are committed
-   > main.py has changes that are not committed yet.
-   > Save, then Commit in Source Control, so GitHub has what check.py tested.
+[PASS] Your latest changes are committed
+[PASS] Your repo is connected to GitHub
+[PASS] Your commit is pushed to GitHub
 
 POINTS FROM check.py: 40 / 40
 
